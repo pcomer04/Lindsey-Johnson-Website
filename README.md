@@ -11,7 +11,7 @@ Personal project with real world application.
 
 ### Incorporated Technologies
 - Frontend: HTML, CSS, Javascript
-- Middlend: TODO
+- Middlend: ##TODO
 - Backend: SQL
 
 
