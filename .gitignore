@@ -1,8 +1,9 @@
 # Dependencies
-node_modules
+node_modules/
 
 # Build/Production
 /client/build
+/lindsey-website-frontend/build
 
 # Environment variables
 *.env*
@@ -33,32 +34,22 @@ node_modules
 # Configuration
 .prettierrc
 
-#Frontend .gitignore
-
-# dependencies
-/lindsey-website-frontend/node_modules
+# Frontend specific
+/lindsey-website-frontend/node_modules/
 /lindsey-website-frontend/.pnp
 /lindsey-website-frontend/.pnp.js
+/lindsey-website-frontend/coverage/
 
-# testing
-/lindsey-website-frontend/coverage
-
-# production
-/lindsey-website-frontend/build
-
-# misc
+# Misc
 /lindsey-website-frontend/.DS_Store
 /lindsey-website-frontend/.env.local
 /lindsey-website-frontend/.env.development.local
 /lindsey-website-frontend/.env.test.local
 /lindsey-website-frontend/.env.production.local
-
 /lindsey-website-frontend/npm-debug.log*
 /lindsey-website-frontend/yarn-debug.log*
 /lindsey-website-frontend/yarn-error.log*
 
-# Middleend .gitignore
-
-# app settings
-/Lindsey's-Website-API/appsettings.Development.json
-/Lindsey's-Website-API/appsettings.json
+# Middleend specific
+/Lindsey-Website-API/appsettings.Development.json
+/Lindsey-Website-API/appsettings.json
