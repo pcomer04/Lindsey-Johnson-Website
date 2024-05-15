@@ -1,0 +1,64 @@
+# Dependencies
+node_modules
+
+# Build/Production
+/client/build
+
+# Environment variables
+*.env*
+!.env.example
+
+# Logs
+/logs
+*.log
+
+# Editor specific
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Temporary files
+*.sw?
+*.cache
+.DS_Store
+
+# Generated / Auto-generated files
+/dist
+/dist-ssr
+.eslintcache
+
+# Configuration
+.prettierrc
+
+#Frontend .gitignore
+
+# dependencies
+/lindsey-website-frontend/node_modules
+/lindsey-website-frontend/.pnp
+/lindsey-website-frontend/.pnp.js
+
+# testing
+/lindsey-website-frontend/coverage
+
+# production
+/lindsey-website-frontend/build
+
+# misc
+/lindsey-website-frontend/.DS_Store
+/lindsey-website-frontend/.env.local
+/lindsey-website-frontend/.env.development.local
+/lindsey-website-frontend/.env.test.local
+/lindsey-website-frontend/.env.production.local
+
+/lindsey-website-frontend/npm-debug.log*
+/lindsey-website-frontend/yarn-debug.log*
+/lindsey-website-frontend/yarn-error.log*
+
+# Middleend .gitignore
+
+# app settings
+/Lindsey's-Website-API/appsettings.Development.json
+/Lindsey's-Website-API/appsettings.json
