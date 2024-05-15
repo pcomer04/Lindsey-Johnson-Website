@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lindsey-Website-API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0bea2aa57e8e71af4421c9fad0ddfdef9b7e0aeb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9423b2128309649d1794c3e2d109323d30420d5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lindsey-Website-API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lindsey-Website-API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
